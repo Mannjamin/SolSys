@@ -16,4 +16,8 @@ It would also be appreciated if you share the origins of this script on this Rep
 
 Kind regards, Mannjamin.
 
+### Further Notes;
 As an extension, to everyone who mentions the utilisation of the CSS within the Main HTML Scipt; The single script was designed for utilisation within Wallpaper Engine in order to keep the project minimal. Otherwise, I would of used an External CSS file to keep the scripts compact. 
+
+This Script was not designed with immersion in mind, all objects within the script have been kept compact in order to maintain visibility on most browsers. All objects are not to scale. Furthermore, the speed and distance between planets is also inaccurate.
+There's a Higher Chance of the Death Star aiming for earth than editing this script to scale and distance accuratly within time, management and resources. 
