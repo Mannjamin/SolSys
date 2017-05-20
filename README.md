@@ -7,6 +7,7 @@ The imagery and media used within this document was sourced from Google Images, 
 This Script Can be used for Websites as well as Wallpaper Engine.
 
 To view the script as website, you can "Open As" through the RMB button or open the script within Notepad++ and "Run" on the browser of your choosing.
+
 To use this script on Wallpaper Engine, simply go to the following link and subscribe:[Press Here](http://steamcommunity.com/sharedfiles/filedetails/?id=929183859)
 
 Feel free to utilise this code for any purpose you see fit.
