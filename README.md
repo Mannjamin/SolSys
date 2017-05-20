@@ -15,3 +15,5 @@ All I ask is that you enjoy and experiment with the code to make your own unique
 It would also be appreciated if you share the origins of this script on this Repository.
 
 Kind regards, Mannjamin.
+
+As an extension, to everyone who mentions the utilisation of the CSS within the Main HTML Scipt; The single script was designed for utilisation within Wallpaper Engine in order to keep the project minimal. Otherwise, I would of used an External CSS file to keep the scripts compact. 
