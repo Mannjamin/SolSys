@@ -1,4 +1,4 @@
-# SolSys
+# Sol
 Basic Solar System Model built for Webpages and Wallpapers.
 
 This is a Hypertext Markup Language script with elements of Cascading Sytylesheets utilised to create a model of the Solar System.
