@@ -8,7 +8,7 @@ This Script Can be used for Websites as well as Wallpaper Engine.
 
 To view the script as website, you can "Open As" through the RMB button or open the script within Notepad++ and "Run" on the browser of your choosing.
 
-To use this script on Wallpaper Engine, simply go to the following link and subscribe:[Press Here](http://steamcommunity.com/sharedfiles/filedetails/?id=929183859)
+[To use this script on Wallpaper Engine, simply press on this line and subscribe:](http://steamcommunity.com/sharedfiles/filedetails/?id=929891137)
 
 Feel free to utilise this code for any purpose you see fit.
 All I ask is that you enjoy and experiment with the code to make your own unique form.
