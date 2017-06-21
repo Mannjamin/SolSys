@@ -26,5 +26,5 @@ There's a Higher Chance of the Death Star aiming for earth than editing this scr
 If you have any queries or wish to show me an adapted version you have cerated, please join my discord!
 I would be more than happy to answer any questions or check out any versions you have created using this script!
 
-[https://discord.gg/rGqFhQ5][Mannjamins Dungeon Link!]
+[Mannjamins Dungeon][https://discord.gg/rGqFhQ5]
 ![Mannjamins Dungeon Discord](http://www.legitreviews.com/wp-content/uploads/2016/03/discord.jpg "Mannjamins Dungeon")
