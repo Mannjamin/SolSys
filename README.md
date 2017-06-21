@@ -21,3 +21,9 @@ As an extension, to everyone who mentions the utilisation of the CSS within the 
 
 This Script was not designed with immersion in mind, all objects within the script have been kept compact in order to maintain visibility on most browsers. All objects are not to scale. Furthermore, the speed and distance between planets is also inaccurate.
 There's a Higher Chance of the Death Star aiming for earth than editing this script to scale and distance accuratly within time, management and resources.  
+
+### Support:
+If you have any queries or wish to show me an adapted version you have cerated, please join my discord!
+I would be more than happy to answer any questions or check out any versions you have created using this script!
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
+![Mannjamins Dungeon Discord](http://www.legitreviews.com/wp-content/uploads/2016/03/discord.jpg "Mannjamins Dungeon")
